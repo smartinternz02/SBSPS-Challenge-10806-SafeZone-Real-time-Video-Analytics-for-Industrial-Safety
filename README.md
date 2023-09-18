@@ -29,3 +29,19 @@ Getting Started with Threat Intelligence and Hunting: https://www.credly.com/bad
 
 
 Fundamentals of Sustainability and Technology: https://www.credly.com/badges/1eee8995-7440-4cdc-8ae0-6a1b7c9b475e/public_url
+
+
+# BADGES - MALLAK KESHAVA GAYATRI
+Getting Started with Threat Intelligence and Huntinghttps://www.credly.com/badges/b7b94a63-5440-4782-9a11-2b9f1687ffc7/public_url
+
+
+fundamentals of Sustainability and Technology:https://www.credly.com/badges/48629275-a267-409e-912d-c50438e53b9b/public_url
+
+
+Journey to Cloud: Envisioning Your Solution:https://www.credly.com/badges/b9c2e1d9-b263-4a2c-a17f-e4b540c9d39d/public_url
+
+
+Getting Started with Enterprise-grade AI:https://www.credly.com/badges/a7f782fb-a482-49f4-b9df-d148cd884856/public_url
+
+
+Getting Started with Enterprise Data Science:https://www.credly.com/badges/b7b94a63-5440-4782-9a11-2b9f1687ffc7/public_url
