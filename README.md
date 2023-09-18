@@ -32,7 +32,7 @@ Fundamentals of Sustainability and Technology: https://www.credly.com/badges/1ee
 
 
 # BADGES - MALLAK KESHAVA GAYATRI
-Getting Started with Threat Intelligence and Hunting:https://www.credly.com/badges/b7b94a63-5440-4782-9a11-2b9f1687ffc7/public_url
+Getting Started with Threat Intelligence and Hunting: https://www.credly.com/badges/b7b94a63-5440-4782-9a11-2b9f1687ffc7/public_url
 
 
 fundamentals of Sustainability and Technology:https://www.credly.com/badges/48629275-a267-409e-912d-c50438e53b9b/public_url
